@@ -43,3 +43,6 @@ resources:
 
 {% include taskforce_content.md %}
 <!--- Please include your task force contents below, free formatting -->
+
+<h2> ASL Inventory</h2>
+Currently, all ASL pipeline developers are kindly asked to fill a [short questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSf-4_pBXFA31htMNPZo1kQgcY0EJ5_AWxjyvkkYIQVGUHo6sg/viewform) to specify the features of their pipelines. The results of the questionnaire will be used a a starting point for the ASL inventory.
